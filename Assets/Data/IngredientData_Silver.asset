@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cecc7525c904f8f8c225f0679b3d6c0, type: 3}
+  m_Name: IngredientData_Silver
+  m_EditorClassIdentifier: 
+  type: 0
+  processTime: 3.5
+  cookTime: 6.5
+  rawMesh: {fileID: 4306747591942989996, guid: 0eb98a6429219b6409c6e740644439ed, type: 3}
+  processedMesh: {fileID: -462981019419857548, guid: 3caa2bb199a20ba43aa075efe692282c, type: 3}
+  cookedMesh: {fileID: 0}
+  ingredientMaterial: {fileID: 2100000, guid: 767e8b978e63e5846ba8ad9e265b07b9, type: 2}
+  baseColor: {r: 0.6415094, g: 0.6142755, b: 0.6142755, a: 1}
+  sprite: {fileID: 21300000, guid: 02800fb9cff14da47a04572790384d8b, type: 3}
